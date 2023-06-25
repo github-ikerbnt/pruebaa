@@ -9,7 +9,7 @@ from dash.dependencies import Input, Output
 #---------------------------------------------------------------------------------------------
 
 # Cargamos los datos
-df = pd.read_csv("src/dataset_copd.csv")
+df = pd.read_csv("dataset_copd.csv")
 
 #---------------------------------------------------------------------------------------------
 
